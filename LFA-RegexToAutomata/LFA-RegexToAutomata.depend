@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1587998541 source:d:\lfa-regextoautomata\main.cpp
+	<iostream>
+	<Automat.h>
+	<fstream>
+	<string>
+
+1587998424 d:\lfa-regextoautomata\include\automat.h
+	<bits/stdc++.h>
+
+1587999166 source:d:\lfa-regextoautomata\src\automat.cpp
+	"Automat.h"
+	<bits/stdc++.h>
+
